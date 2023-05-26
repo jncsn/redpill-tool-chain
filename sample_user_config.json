@@ -4,8 +4,8 @@
         "vid": "0x46f4",
         "sn": "1980PDN001353",
         "mac1": "00:11:32:8C:E9:F4",
-        "SataPortMap": "45",
-        "DiskIdxMap": "0004"
+        "SataPortMap": "6",
+        "DiskIdxMap": "00"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
