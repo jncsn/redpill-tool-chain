@@ -3,9 +3,7 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1980PDN001353",
-        "mac1": "00:11:32:8C:E9:F4",
-        "SataPortMap": "1",
-        "DiskIdxMap": "10"
+        "mac1": "00:11:32:8C:E9:F4"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
